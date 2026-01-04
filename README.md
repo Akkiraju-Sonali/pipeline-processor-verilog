@@ -22,7 +22,7 @@ Pipeline registers are used between stages to enable concurrent instruction exec
 - pipeline_processor.v : Verilog design of pipelined processor
 - pipeline_tb.v        : Testbench for simulation
 - README.md            : Project documentation
-- Simulation_Report_PP  : simulation report documentation
+- Simulation_Report_PP.pdf : simulation report documentation
 ## Tools Used
 - Verilog HDL
 - Xilinx Vivado
